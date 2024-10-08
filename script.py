@@ -148,12 +148,12 @@ def start_trading():
     sell_all_googl()
 
     # Wait a few seconds for the sell order to complete (adjust based on market conditions)
-    time.sleep(5)
+    time.sleep(0.5)
 
     # Start the trading strategy
     while True:
         run_trading_strategy()
-        time.sleep(0.5)  # Wait for 0.5 seconds before rechecking
+        time.sleep(0.5)  # Sleep after every loop iteration
 
 if __name__ == "__main__":
     start_trading()
