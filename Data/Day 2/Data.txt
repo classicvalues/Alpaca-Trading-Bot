@@ -1,0 +1,400 @@
+GOOGL
+sell	market	filled	access_key	1,198.00	1,198.00	$164.42	–	–	Oct 08, 2024, 12:57:38 PM	Oct 08, 2024, 12:57:42 PM
+GOOGL
+buy	market	filled	access_key	1,198.00	1,198.00	$164.42	–	–	Oct 08, 2024, 12:57:33 PM	Oct 08, 2024, 12:57:34 PM
+GOOGL
+sell	market	filled	access_key	1,198.00	1,198.00	$164.3736	–	–	Oct 08, 2024, 12:55:16 PM	Oct 08, 2024, 12:55:17 PM
+GOOGL
+buy	market	filled	access_key	1,198.00	1,198.00	$164.38	–	–	Oct 08, 2024, 12:55:11 PM	Oct 08, 2024, 12:55:12 PM
+GOOGL
+sell	market	filled	access_key	1,201.00	1,201.00	$164.072	–	–	Oct 08, 2024, 12:53:46 PM	Oct 08, 2024, 12:53:48 PM
+GOOGL
+buy	market	filled	access_key	1,201.00	1,201.00	$164.1316	–	–	Oct 08, 2024, 12:53:15 PM	Oct 08, 2024, 12:53:17 PM
+GOOGL
+sell	market	filled	access_key	1,201.00	1,201.00	$163.9684	–	–	Oct 08, 2024, 12:52:27 PM	Oct 08, 2024, 12:52:29 PM
+GOOGL
+buy	market	filled	access_key	1,201.00	1,201.00	$163.8476	–	–	Oct 08, 2024, 12:48:49 PM	Oct 08, 2024, 12:48:53 PM
+GOOGL
+sell	market	filled	access_key	1,201.00	1,201.00	$163.9304	–	–	Oct 08, 2024, 12:43:01 PM	Oct 08, 2024, 12:43:02 PM
+GOOGL
+buy	market	filled	access_key	1,201.00	1,201.00	$163.94	–	–	Oct 08, 2024, 12:42:39 PM	Oct 08, 2024, 12:42:39 PM
+GOOGL
+sell	market	filled	access_key	1,202.00	1,202.00	$163.7701	–	–	Oct 08, 2024, 12:39:47 PM	Oct 08, 2024, 12:39:51 PM
+GOOGL
+buy	market	filled	access_key	1,202.00	1,202.00	$163.79	–	–	Oct 08, 2024, 12:39:35 PM	Oct 08, 2024, 12:39:36 PM
+GOOGL
+sell	market	filled	access_key	1,204.00	1,204.00	$163.56	–	–	Oct 08, 2024, 12:37:18 PM	Oct 08, 2024, 12:37:20 PM
+GOOGL
+buy	market	filled	access_key	1,204.00	1,204.00	$163.53	–	–	Oct 08, 2024, 12:36:41 PM	Oct 08, 2024, 12:36:42 PM
+GOOGL
+sell	market	filled	access_key	1,206.00	1,206.00	$163.26	–	–	Oct 08, 2024, 12:10:50 PM	Oct 08, 2024, 12:10:51 PM
+GOOGL
+buy	market	filled	access_key	1,206.00	1,206.00	$163.3	–	–	Oct 08, 2024, 12:10:14 PM	Oct 08, 2024, 12:10:15 PM
+GOOGL
+sell	market	filled	access_key	1,207.00	1,207.00	$163.2551	–	–	Oct 08, 2024, 11:37:46 AM	Oct 08, 2024, 11:37:47 AM
+GOOGL
+buy	market	filled	access_key	1,207.00	1,207.00	$163.24	–	–	Oct 08, 2024, 11:37:35 AM	Oct 08, 2024, 11:37:35 AM
+GOOGL
+sell	market	filled	access_key	1,209.00	1,209.00	$162.93	–	–	Oct 08, 2024, 11:34:58 AM	Oct 08, 2024, 11:34:59 AM
+GOOGL
+buy	market	filled	access_key	1,209.00	1,209.00	$162.9602	–	–	Oct 08, 2024, 11:34:51 AM	Oct 08, 2024, 11:34:53 AM
+GOOGL
+sell	market	filled	access_key	1,206.00	1,206.00	$163.39	–	–	Oct 08, 2024, 10:13:27 AM	Oct 08, 2024, 10:13:27 AM
+GOOGL
+buy	market	filled	access_key	1,206.00	1,206.00	$163.4053	–	–	Oct 08, 2024, 10:13:23 AM	Oct 08, 2024, 10:13:25 AM
+GOOGL
+sell	market	filled	access_key	1,205.00	1,205.00	$163.71	–	–	Oct 08, 2024, 09:58:26 AM	Oct 08, 2024, 09:58:26 AM
+GOOGL
+buy	market	filled	access_key	1,205.00	1,205.00	$163.82	–	–	Oct 08, 2024, 09:57:33 AM	Oct 08, 2024, 09:57:34 AM
+GOOGL
+sell	market	filled	access_key	1,205.00	1,205.00	$163.65	–	–	Oct 08, 2024, 09:54:35 AM	Oct 08, 2024, 09:54:36 AM
+GOOGL
+buy	market	filled	access_key	1,205.00	1,205.00	$163.53	–	–	Oct 08, 2024, 09:53:26 AM	Oct 08, 2024, 09:53:26 AM
+GOOGL
+sell	market	filled	access_key	1,205.00	1,205.00	$163.516	–	–	Oct 08, 2024, 09:46:04 AM	Oct 08, 2024, 09:46:06 AM
+GOOGL
+buy	market	filled	access_key	1,205.00	1,205.00	$163.54	–	–	Oct 08, 2024, 09:45:37 AM	Oct 08, 2024, 09:45:37 AM
+GOOGL
+sell	market	filled	access_key	1,206.00	1,206.00	$163.51	–	–	Oct 08, 2024, 09:42:27 AM	Oct 08, 2024, 09:42:28 AM
+GOOGL
+buy	market	filled	access_key	1,206.00	1,206.00	$163.52	–	–	Oct 08, 2024, 09:42:17 AM	Oct 08, 2024, 09:42:18 AM
+GOOGL
+sell	market	filled	access_key	1,206.00	1,206.00	$163.54	–	–	Oct 08, 2024, 09:30:52 AM	Oct 08, 2024, 09:30:52 AM
+GOOGL
+buy	market	filled	access_key	1,206.00	1,206.00	$163.57	–	–	Oct 08, 2024, 09:30:46 AM	Oct 08, 2024, 09:30:46 AM
+GOOGL
+sell	market	filled	access_key	1,207.00	1,207.00	$163.46	–	–	Oct 08, 2024, 09:30:06 AM	Oct 08, 2024, 09:30:07 AM
+GOOGL
+buy	market	filled	access_key	1,207.00	1,207.00	$163.47	–	–	Oct 08, 2024, 09:29:58 AM	Oct 08, 2024, 09:29:58 AM
+GOOGL
+sell	market	filled	access_key	1,202.00	1,202.00	$164.0891	–	–	Oct 08, 2024, 08:59:59 AM	Oct 08, 2024, 09:00:00 AM
+GOOGL
+buy	market	filled	access_key	1,202.00	1,202.00	$164.06	–	–	Oct 08, 2024, 08:58:42 AM	Oct 08, 2024, 08:58:43 AM
+GOOGL
+sell	market	filled	access_key	1,201.00	1,201.00	$164.14	–	–	Oct 08, 2024, 08:21:30 AM	Oct 08, 2024, 08:21:31 AM
+GOOGL
+buy	market	filled	access_key	1,201.00	1,201.00	$164.07	–	–	Oct 08, 2024, 08:20:41 AM	Oct 08, 2024, 08:20:41 AM
+GOOGL
+sell	market	filled	access_key	1,202.00	1,202.00	$164.29	–	–	Oct 08, 2024, 07:52:11 AM	Oct 08, 2024, 07:52:11 AM
+GOOGL
+buy	market	filled	access_key	1,202.00	1,202.00	$164.64	–	–	Oct 08, 2024, 07:47:00 AM	Oct 08, 2024, 07:47:01 AM
+GOOGL
+sell	market	filled	access_key	1,202.00	1,202.00	$164.62	–	–	Oct 08, 2024, 07:43:28 AM	Oct 08, 2024, 07:43:28 AM
+GOOGL
+buy	market	filled	access_key	1,202.00	1,202.00	$164.54	–	–	Oct 08, 2024, 07:43:17 AM	Oct 08, 2024, 07:43:17 AM
+GOOGL
+sell	market	filled	access_key	1,201.00	1,201.00	$164.3775	–	–	Oct 08, 2024, 07:42:52 AM	Oct 08, 2024, 07:42:54 AM
+GOOGL
+buy	market	filled	access_key	1,201.00	1,201.00	$164.1229	–	–	Oct 08, 2024, 07:42:10 AM	Oct 08, 2024, 07:42:11 AM
+GOOGL
+sell	market	filled	access_key	1,202.00	1,202.00	$164.09	–	–	Oct 08, 2024, 07:41:12 AM	Oct 08, 2024, 07:41:12 AM
+GOOGL
+buy	market	filled	access_key	1,202.00	1,202.00	$164.12	–	–	Oct 08, 2024, 07:41:07 AM	Oct 08, 2024, 07:41:07 AM
+GOOGL
+sell	market	filled	access_key	1,202.00	1,202.00	$164.0001	–	–	Oct 08, 2024, 07:40:01 AM	Oct 08, 2024, 07:40:01 AM
+GOOGL
+buy	market	filled	access_key	1,202.00	1,202.00	$163.99	–	–	Oct 08, 2024, 07:38:28 AM	Oct 08, 2024, 07:38:29 AM
+GOOGL
+sell	market	filled	access_key	1,203.00	1,203.00	$164.09	–	–	Oct 08, 2024, 07:35:54 AM	Oct 08, 2024, 07:35:54 AM
+GOOGL
+buy	market	filled	access_key	1,203.00	1,203.00	$164.188	–	–	Oct 08, 2024, 07:35:40 AM	Oct 08, 2024, 07:35:42 AM
+GOOGL
+sell	market	filled	access_key	1,202.00	1,202.00	$164.12	–	–	Oct 08, 2024, 07:34:54 AM	Oct 08, 2024, 07:34:54 AM
+GOOGL
+buy	market	filled	access_key	1,202.00	1,202.00	$164.03	–	–	Oct 08, 2024, 07:34:21 AM	Oct 08, 2024, 07:34:21 AM
+GOOGL
+sell	market	filled	access_key	1,203.00	1,203.00	$164.01	–	–	Oct 08, 2024, 07:34:04 AM	Oct 08, 2024, 07:34:05 AM
+GOOGL
+buy	market	filled	access_key	1,203.00	1,203.00	$164.01	–	–	Oct 08, 2024, 07:33:43 AM	Oct 08, 2024, 07:33:43 AM
+GOOGL
+sell	market	filled	access_key	1,202.00	1,202.00	$163.966	–	–	Oct 08, 2024, 07:33:18 AM	Oct 08, 2024, 07:33:19 AM
+GOOGL
+buy	market	filled	access_key	1,202.00	1,202.00	$163.9	–	–	Oct 08, 2024, 07:31:51 AM	Oct 08, 2024, 07:31:51 AM
+GOOGL
+sell	market	filled	access_key	1,203.00	1,203.00	$163.89	–	–	Oct 08, 2024, 07:31:46 AM	Oct 08, 2024, 07:31:46 AM
+GOOGL
+buy	market	filled	access_key	1,203.00	1,203.00	$163.9243	–	–	Oct 08, 2024, 07:31:40 AM	Oct 08, 2024, 07:31:41 AM
+GOOGL
+sell	market	filled	access_key	1,204.00	1,204.00	$163.85	–	–	Oct 08, 2024, 07:31:31 AM	Oct 08, 2024, 07:31:32 AM
+GOOGL
+buy	market	filled	access_key	1,204.00	1,204.00	$163.8672	–	–	Oct 08, 2024, 07:31:21 AM	Oct 08, 2024, 07:31:22 AM
+GOOGL
+sell	market	filled	access_key	1,204.00	1,204.00	$163.89	–	–	Oct 08, 2024, 07:30:39 AM	Oct 08, 2024, 07:30:39 AM
+GOOGL
+buy	market	filled	access_key	1,204.00	1,204.00	$163.88	–	–	Oct 08, 2024, 07:30:24 AM	Oct 08, 2024, 07:30:25 AM
+GOOGL
+sell	market	filled	access_key	1,204.00	1,204.00	$163.89	–	–	Oct 08, 2024, 07:30:13 AM	Oct 08, 2024, 07:30:13 AM
+GOOGL
+buy	market	filled	access_key	1,204.00	1,204.00	$163.9337	–	–	Oct 08, 2024, 07:30:02 AM	Oct 08, 2024, 07:30:03 AM
+GOOGL
+sell	market	filled	access_key	1,204.00	1,204.00	$164	–	–	Oct 08, 2024, 07:28:23 AM	Oct 08, 2024, 07:28:23 AM
+GOOGL
+buy	market	filled	access_key	1,204.00	1,204.00	$164.06	–	–	Oct 08, 2024, 07:27:57 AM	Oct 08, 2024, 07:27:57 AM
+GOOGL
+sell	market	filled	access_key	1,204.00	1,204.00	$164.0935	–	–	Oct 08, 2024, 07:27:00 AM	Oct 08, 2024, 07:27:01 AM
+GOOGL
+buy	market	filled	access_key	1,204.00	1,204.00	$164.11	–	–	Oct 08, 2024, 07:26:47 AM	Oct 08, 2024, 07:26:47 AM
+GOOGL
+sell	market	filled	access_key	1,204.00	1,204.00	$164.05	–	–	Oct 08, 2024, 07:26:35 AM	Oct 08, 2024, 07:26:36 AM
+GOOGL
+buy	market	filled	access_key	1,204.00	1,204.00	$164.03	–	–	Oct 08, 2024, 07:25:42 AM	Oct 08, 2024, 07:25:43 AM
+GOOGL
+sell	market	filled	access_key	1,204.00	1,204.00	$164.05	–	–	Oct 08, 2024, 07:24:33 AM	Oct 08, 2024, 07:24:34 AM
+GOOGL
+buy	market	filled	access_key	1,204.00	1,204.00	$164.03	–	–	Oct 08, 2024, 07:23:45 AM	Oct 08, 2024, 07:23:45 AM
+GOOGL
+sell	market	filled	access_key	1,205.00	1,205.00	$163.9486	–	–	Oct 08, 2024, 07:23:10 AM	Oct 08, 2024, 07:23:11 AM
+GOOGL
+buy	market	filled	access_key	1,205.00	1,205.00	$163.98	–	–	Oct 08, 2024, 07:23:05 AM	Oct 08, 2024, 07:23:05 AM
+GOOGL
+sell	market	filled	access_key	1,206.00	1,206.00	$163.95	–	–	Oct 08, 2024, 07:22:56 AM	Oct 08, 2024, 07:22:57 AM
+GOOGL
+buy	market	filled	access_key	1,206.00	1,206.00	$163.99	–	–	Oct 08, 2024, 07:22:49 AM	Oct 08, 2024, 07:22:50 AM
+GOOGL
+sell	market	filled	access_key	1,206.00	1,206.00	$163.95	–	–	Oct 08, 2024, 07:22:10 AM	Oct 08, 2024, 07:22:10 AM
+GOOGL
+buy	market	filled	access_key	1,206.00	1,206.00	$163.98	–	–	Oct 08, 2024, 07:22:00 AM	Oct 08, 2024, 07:22:01 AM
+GOOGL
+sell	market	filled	access_key	1,207.00	1,207.00	$163.95	–	–	Oct 08, 2024, 07:21:50 AM	Oct 08, 2024, 07:21:51 AM
+GOOGL
+buy	market	filled	access_key	1,207.00	1,207.00	$164.02	–	–	Oct 08, 2024, 07:21:21 AM	Oct 08, 2024, 07:21:21 AM
+GOOGL
+sell	market	filled	access_key	1,207.00	1,207.00	$164.06	–	–	Oct 08, 2024, 07:20:58 AM	Oct 08, 2024, 07:20:59 AM
+GOOGL
+buy	market	filled	access_key	1,207.00	1,207.00	$164.07	–	–	Oct 08, 2024, 07:20:48 AM	Oct 08, 2024, 07:20:48 AM
+GOOGL
+sell	market	filled	access_key	1,206.00	1,206.00	$164.17	–	–	Oct 08, 2024, 07:18:36 AM	Oct 08, 2024, 07:18:36 AM
+GOOGL
+buy	market	filled	access_key	1,206.00	1,206.00	$164.21	–	–	Oct 08, 2024, 07:18:31 AM	Oct 08, 2024, 07:18:32 AM
+GOOGL
+sell	market	filled	access_key	1,207.00	1,207.00	$164.12	–	–	Oct 08, 2024, 07:17:30 AM	Oct 08, 2024, 07:17:30 AM
+GOOGL
+buy	market	filled	access_key	1,207.00	1,207.00	$164.16	–	–	Oct 08, 2024, 07:17:03 AM	Oct 08, 2024, 07:17:03 AM
+GOOGL
+sell	market	filled	access_key	1,207.00	1,207.00	$164.15	–	–	Oct 08, 2024, 07:16:57 AM	Oct 08, 2024, 07:16:58 AM
+GOOGL
+buy	market	filled	access_key	1,207.00	1,207.00	$164.0901	–	–	Oct 08, 2024, 07:16:34 AM	Oct 08, 2024, 07:16:35 AM
+GOOGL
+sell	market	filled	access_key	1,207.00	1,207.00	$164.026	–	–	Oct 08, 2024, 07:16:29 AM	Oct 08, 2024, 07:16:30 AM
+GOOGL
+buy	market	filled	access_key	1,207.00	1,207.00	$163.9	–	–	Oct 08, 2024, 07:15:24 AM	Oct 08, 2024, 07:15:25 AM
+GOOGL
+sell	market	filled	access_key	1,207.00	1,207.00	$163.9047	–	–	Oct 08, 2024, 07:15:01 AM	Oct 08, 2024, 07:15:02 AM
+GOOGL
+buy	market	filled	access_key	1,207.00	1,207.00	$163.93	–	–	Oct 08, 2024, 07:14:59 AM	Oct 08, 2024, 07:14:59 AM
+GOOGL
+sell	market	filled	access_key	1,207.00	1,207.00	$163.91	–	–	Oct 08, 2024, 07:14:58 AM	Oct 08, 2024, 07:14:58 AM
+GOOGL
+buy	market	filled	access_key	1,207.00	1,207.00	$163.93	–	–	Oct 08, 2024, 07:14:56 AM	Oct 08, 2024, 07:14:57 AM
+GOOGL
+sell	market	filled	access_key	1,209.00	1,209.00	$163.84	–	–	Oct 08, 2024, 07:14:49 AM	Oct 08, 2024, 07:14:49 AM
+GOOGL
+buy	market	filled	access_key	1,209.00	1,209.00	$164.0199	–	–	Oct 08, 2024, 07:14:13 AM	Oct 08, 2024, 07:14:15 AM
+GOOGL
+sell	market	filled	access_key	1,210.00	1,210.00	$163.9844	–	–	Oct 08, 2024, 07:13:46 AM	Oct 08, 2024, 07:13:47 AM
+GOOGL
+buy	market	filled	access_key	1,210.00	1,210.00	$164.01	–	–	Oct 08, 2024, 07:13:10 AM	Oct 08, 2024, 07:13:13 AM
+GOOGL
+sell	market	filled	access_key	1,210.00	1,210.00	$163.97	–	–	Oct 08, 2024, 07:13:02 AM	Oct 08, 2024, 07:13:02 AM
+GOOGL
+buy	market	filled	access_key	1,210.00	1,210.00	$164.0082	–	–	Oct 08, 2024, 07:13:00 AM	Oct 08, 2024, 07:13:00 AM
+GOOGL
+sell	market	filled	access_key	1,211.00	1,211.00	$163.93	–	–	Oct 08, 2024, 07:12:46 AM	Oct 08, 2024, 07:12:46 AM
+GOOGL
+buy	market	filled	access_key	1,211.00	1,211.00	$163.95	–	–	Oct 08, 2024, 07:12:45 AM	Oct 08, 2024, 07:12:45 AM
+GOOGL
+sell	market	filled	access_key	1,211.00	1,211.00	$163.98	–	–	Oct 08, 2024, 07:11:57 AM	Oct 08, 2024, 07:11:59 AM
+GOOGL
+buy	market	filled	access_key	1,211.00	1,211.00	$164	–	–	Oct 08, 2024, 07:11:18 AM	Oct 08, 2024, 07:11:19 AM
+GOOGL
+sell	market	filled	access_key	1,213.00	1,213.00	$163.91	–	–	Oct 08, 2024, 07:11:07 AM	Oct 08, 2024, 07:11:07 AM
+GOOGL
+buy	market	filled	access_key	1,213.00	1,213.00	$164	–	–	Oct 08, 2024, 07:10:44 AM	Oct 08, 2024, 07:10:44 AM
+GOOGL
+sell	market	filled	access_key	1,213.00	1,213.00	$163.97	–	–	Oct 08, 2024, 07:10:23 AM	Oct 08, 2024, 07:10:23 AM
+GOOGL
+buy	market	filled	access_key	1,213.00	1,213.00	$163.98	–	–	Oct 08, 2024, 07:10:04 AM	Oct 08, 2024, 07:10:04 AM
+GOOGL
+sell	market	filled	access_key	1,214.00	1,214.00	$163.88	–	–	Oct 08, 2024, 07:09:40 AM	Oct 08, 2024, 07:09:41 AM
+GOOGL
+buy	market	filled	access_key	1,214.00	1,214.00	$163.9286	–	–	Oct 08, 2024, 07:09:30 AM	Oct 08, 2024, 07:09:31 AM
+GOOGL
+sell	market	filled	access_key	1,214.00	1,214.00	$163.9	–	–	Oct 08, 2024, 07:08:34 AM	Oct 08, 2024, 07:08:34 AM
+GOOGL
+buy	market	filled	access_key	1,214.00	1,214.00	$163.8531	–	–	Oct 08, 2024, 07:07:10 AM	Oct 08, 2024, 07:07:10 AM
+GOOGL
+sell	market	filled	access_key	1,213.00	1,213.00	$164.01	–	–	Oct 08, 2024, 07:05:57 AM	Oct 08, 2024, 07:05:57 AM
+GOOGL
+buy	market	filled	access_key	1,213.00	1,213.00	$164.03	–	–	Oct 08, 2024, 07:05:24 AM	Oct 08, 2024, 07:05:24 AM
+GOOGL
+sell	market	filled	access_key	1,214.00	1,214.00	$163.98	–	–	Oct 08, 2024, 07:05:18 AM	Oct 08, 2024, 07:05:19 AM
+GOOGL
+buy	market	filled	access_key	1,214.00	1,214.00	$164.07	–	–	Oct 08, 2024, 07:05:06 AM	Oct 08, 2024, 07:05:06 AM
+GOOGL
+sell	market	filled	access_key	1,215.00	1,215.00	$164.02	–	–	Oct 08, 2024, 07:04:44 AM	Oct 08, 2024, 07:04:45 AM
+GOOGL
+buy	market	filled	access_key	1,215.00	1,215.00	$164.05	–	–	Oct 08, 2024, 07:04:21 AM	Oct 08, 2024, 07:04:21 AM
+GOOGL
+sell	market	filled	access_key	1,216.00	1,216.00	$163.99	–	–	Oct 08, 2024, 07:04:09 AM	Oct 08, 2024, 07:04:09 AM
+GOOGL
+buy	market	filled	access_key	1,216.00	1,216.00	$164.06	–	–	Oct 08, 2024, 07:04:03 AM	Oct 08, 2024, 07:04:03 AM
+GOOGL
+sell	market	filled	access_key	1,217.00	1,217.00	$163.99	–	–	Oct 08, 2024, 07:03:10 AM	Oct 08, 2024, 07:03:11 AM
+GOOGL
+buy	market	filled	access_key	1,217.00	1,217.00	$164.02	–	–	Oct 08, 2024, 07:03:07 AM	Oct 08, 2024, 07:03:07 AM
+GOOGL
+sell	market	filled	access_key	1,217.00	1,217.00	$164.01	–	–	Oct 08, 2024, 07:03:03 AM	Oct 08, 2024, 07:03:04 AM
+GOOGL
+buy	market	filled	access_key	1,217.00	1,217.00	$164.04	–	–	Oct 08, 2024, 07:03:00 AM	Oct 08, 2024, 07:03:01 AM
+GOOGL
+sell	market	filled	access_key	1,218.00	1,218.00	$164.05	–	–	Oct 08, 2024, 07:02:44 AM	Oct 08, 2024, 07:02:45 AM
+GOOGL
+buy	market	filled	access_key	1,218.00	1,218.00	$164.14	–	–	Oct 08, 2024, 07:02:30 AM	Oct 08, 2024, 07:02:30 AM
+GOOGL
+sell	market	filled	access_key	1,219.00	1,219.00	$164.0906	–	–	Oct 08, 2024, 07:02:28 AM	Oct 08, 2024, 07:02:29 AM
+GOOGL
+buy	market	filled	access_key	1,219.00	1,219.00	$164.17	–	–	Oct 08, 2024, 07:02:18 AM	Oct 08, 2024, 07:02:18 AM
+GOOGL
+sell	market	filled	access_key	1,219.00	1,219.00	$164.15	–	–	Oct 08, 2024, 07:02:05 AM	Oct 08, 2024, 07:02:05 AM
+GOOGL
+buy	market	filled	access_key	1,219.00	1,219.00	$164.14	–	–	Oct 08, 2024, 07:01:57 AM	Oct 08, 2024, 07:01:58 AM
+GOOGL
+sell	market	filled	access_key	1,219.00	1,219.00	$164.11	–	–	Oct 08, 2024, 07:01:56 AM	Oct 08, 2024, 07:01:56 AM
+GOOGL
+buy	market	filled	access_key	1,219.00	1,219.00	$164.1111	–	–	Oct 08, 2024, 07:01:41 AM	Oct 08, 2024, 07:01:41 AM
+GOOGL
+sell	market	filled	access_key	1,220.00	1,220.00	$164.1	–	–	Oct 08, 2024, 07:01:34 AM	Oct 08, 2024, 07:01:35 AM
+GOOGL
+buy	market	filled	access_key	1,220.00	1,220.00	$164.16	–	–	Oct 08, 2024, 07:01:31 AM	Oct 08, 2024, 07:01:31 AM
+GOOGL
+sell	market	filled	access_key	1,220.00	1,220.00	$164.1343	–	–	Oct 08, 2024, 07:01:29 AM	Oct 08, 2024, 07:01:30 AM
+GOOGL
+buy	market	filled	access_key	1,220.00	1,220.00	$164.14	–	–	Oct 08, 2024, 07:01:17 AM	Oct 08, 2024, 07:01:17 AM
+GOOGL
+sell	market	filled	access_key	1,221.00	1,221.00	$164.07	–	–	Oct 08, 2024, 07:01:12 AM	Oct 08, 2024, 07:01:12 AM
+GOOGL
+buy	market	filled	access_key	1,221.00	1,221.00	$164.0991	–	–	Oct 08, 2024, 07:01:08 AM	Oct 08, 2024, 07:01:10 AM
+GOOGL
+sell	market	filled	access_key	1,220.00	1,220.00	$164.06	–	–	Oct 08, 2024, 07:01:05 AM	Oct 08, 2024, 07:01:05 AM
+GOOGL
+buy	market	filled	access_key	1,220.00	1,220.00	$163.9139	–	–	Oct 08, 2024, 07:00:41 AM	Oct 08, 2024, 07:00:41 AM
+GOOGL
+sell	market	filled	access_key	1,220.00	1,220.00	$163.8939	–	–	Oct 08, 2024, 07:00:39 AM	Oct 08, 2024, 07:00:40 AM
+GOOGL
+buy	market	filled	access_key	1,220.00	1,220.00	$163.86	–	–	Oct 08, 2024, 07:00:28 AM	Oct 08, 2024, 07:00:28 AM
+GOOGL
+sell	market	filled	access_key	1,220.00	1,220.00	$163.84	–	–	Oct 08, 2024, 07:00:25 AM	Oct 08, 2024, 07:00:26 AM
+GOOGL
+buy	market	filled	access_key	1,220.00	1,220.00	$163.84	–	–	Oct 08, 2024, 07:00:25 AM	Oct 08, 2024, 07:00:25 AM
+GOOGL
+sell	market	filled	access_key	1,221.00	1,221.00	$163.8115	–	–	Oct 08, 2024, 07:00:16 AM	Oct 08, 2024, 07:00:16 AM
+GOOGL
+buy	market	filled	access_key	1,221.00	1,221.00	$163.83	–	–	Oct 08, 2024, 07:00:15 AM	Oct 08, 2024, 07:00:15 AM
+GOOGL
+sell	market	filled	access_key	1,221.00	1,221.00	$163.7732	–	–	Oct 08, 2024, 07:00:07 AM	Oct 08, 2024, 07:00:08 AM
+GOOGL
+buy	market	filled	access_key	1,221.00	1,221.00	$163.7601	–	–	Oct 08, 2024, 07:00:05 AM	Oct 08, 2024, 07:00:05 AM
+GOOGL
+sell	market	filled	access_key	1,222.00	1,222.00	$163.75	–	–	Oct 08, 2024, 07:00:03 AM	Oct 08, 2024, 07:00:04 AM
+GOOGL
+buy	market	filled	access_key	1,222.00	1,222.00	$163.76	–	–	Oct 08, 2024, 07:00:00 AM	Oct 08, 2024, 07:00:01 AM
+GOOGL
+sell	market	filled	access_key	1,222.00	1,222.00	$163.6499	–	–	Oct 08, 2024, 06:59:27 AM	Oct 08, 2024, 06:59:28 AM
+GOOGL
+buy	market	filled	access_key	1,222.00	1,222.00	$163.65	–	–	Oct 08, 2024, 06:59:01 AM	Oct 08, 2024, 06:59:02 AM
+GOOGL
+sell	market	filled	access_key	1,222.00	1,222.00	$163.71	–	–	Oct 08, 2024, 06:58:10 AM	Oct 08, 2024, 06:58:10 AM
+GOOGL
+buy	market	filled	access_key	1,222.00	1,222.00	$163.75	–	–	Oct 08, 2024, 06:58:08 AM	Oct 08, 2024, 06:58:08 AM
+GOOGL
+sell	market	filled	access_key	1,223.00	1,223.00	$163.6902	–	–	Oct 08, 2024, 06:57:57 AM	Oct 08, 2024, 06:57:59 AM
+GOOGL
+buy	market	filled	access_key	1,223.00	1,223.00	$163.7433	–	–	Oct 08, 2024, 06:57:41 AM	Oct 08, 2024, 06:57:41 AM
+GOOGL
+sell	market	filled	access_key	1,223.00	1,223.00	$163.72	–	–	Oct 08, 2024, 06:57:38 AM	Oct 08, 2024, 06:57:38 AM
+GOOGL
+buy	market	filled	access_key	1,223.00	1,223.00	$163.6929	–	–	Oct 08, 2024, 06:57:08 AM	Oct 08, 2024, 06:57:09 AM
+GOOGL
+sell	market	filled	access_key	1,224.00	1,224.00	$163.66	–	–	Oct 08, 2024, 06:57:01 AM	Oct 08, 2024, 06:57:01 AM
+GOOGL
+buy	market	filled	access_key	1,224.00	1,224.00	$163.7176	–	–	Oct 08, 2024, 06:56:52 AM	Oct 08, 2024, 06:56:53 AM
+GOOGL
+sell	market	filled	access_key	1,224.00	1,224.00	$163.7239	–	–	Oct 08, 2024, 06:56:47 AM	Oct 08, 2024, 06:56:48 AM
+GOOGL
+buy	market	filled	access_key	1,224.00	1,224.00	$163.67	–	–	Oct 08, 2024, 06:56:24 AM	Oct 08, 2024, 06:56:25 AM
+GOOGL
+sell	market	filled	access_key	1,224.00	1,224.00	$163.6177	–	–	Oct 08, 2024, 06:56:24 AM	Oct 08, 2024, 06:56:24 AM
+GOOGL
+buy	market	filled	access_key	1,224.00	1,224.00	$163.5555	–	–	Oct 08, 2024, 06:55:55 AM	Oct 08, 2024, 06:55:56 AM
+GOOGL
+sell	market	filled	access_key	1,224.00	1,224.00	$163.4446	–	–	Oct 08, 2024, 06:55:21 AM	Oct 08, 2024, 06:55:21 AM
+GOOGL
+buy	market	filled	access_key	1,224.00	1,224.00	$163.44	–	–	Oct 08, 2024, 06:55:18 AM	Oct 08, 2024, 06:55:19 AM
+GOOGL
+sell	market	filled	access_key	1,224.00	1,224.00	$163.45	–	–	Oct 08, 2024, 06:55:14 AM	Oct 08, 2024, 06:55:15 AM
+GOOGL
+buy	market	filled	access_key	1,224.00	1,224.00	$163.4549	–	–	Oct 08, 2024, 06:55:07 AM	Oct 08, 2024, 06:55:08 AM
+GOOGL
+sell	market	filled	access_key	1,223.00	1,223.00	$163.493	–	–	Oct 08, 2024, 06:55:02 AM	Oct 08, 2024, 06:55:02 AM
+GOOGL
+buy	market	filled	access_key	1,223.00	1,223.00	$163.4	–	–	Oct 08, 2024, 06:54:39 AM	Oct 08, 2024, 06:54:39 AM
+GOOGL
+sell	market	filled	access_key	1,223.00	1,223.00	$163.5486	–	–	Oct 08, 2024, 06:54:06 AM	Oct 08, 2024, 06:54:06 AM
+GOOGL
+buy	market	filled	access_key	1,223.00	1,223.00	$163.6	–	–	Oct 08, 2024, 06:54:02 AM	Oct 08, 2024, 06:54:03 AM
+GOOGL
+sell	market	filled	access_key	1,222.00	1,222.00	$163.59	–	–	Oct 08, 2024, 06:53:57 AM	Oct 08, 2024, 06:53:57 AM
+GOOGL
+buy	market	filled	access_key	1,222.00	1,222.00	$163.43	–	–	Oct 08, 2024, 06:53:15 AM	Oct 08, 2024, 06:53:15 AM
+GOOGL
+sell	market	filled	access_key	1,222.00	1,222.00	$163.4071	–	–	Oct 08, 2024, 06:53:10 AM	Oct 08, 2024, 06:53:11 AM
+GOOGL
+buy	market	filled	access_key	1,222.00	1,222.00	$163.43	–	–	Oct 08, 2024, 06:53:04 AM	Oct 08, 2024, 06:53:04 AM
+GOOGL
+sell	market	filled	access_key	1,223.00	1,223.00	$163.37	–	–	Oct 08, 2024, 06:52:39 AM	Oct 08, 2024, 06:52:39 AM
+GOOGL
+buy	market	filled	access_key	1,223.00	1,223.00	$163.39	–	–	Oct 08, 2024, 06:52:28 AM	Oct 08, 2024, 06:52:28 AM
+GOOGL
+sell	market	filled	access_key	1,223.00	1,223.00	$163.37	–	–	Oct 08, 2024, 06:52:22 AM	Oct 08, 2024, 06:52:23 AM
+GOOGL
+buy	market	filled	access_key	1,223.00	1,223.00	$163.39	–	–	Oct 08, 2024, 06:52:21 AM	Oct 08, 2024, 06:52:22 AM
+GOOGL
+sell	market	filled	access_key	1,223.00	1,223.00	$163.38	–	–	Oct 08, 2024, 06:52:17 AM	Oct 08, 2024, 06:52:17 AM
+GOOGL
+buy	market	filled	access_key	1,223.00	1,223.00	$163.33	–	–	Oct 08, 2024, 06:51:58 AM	Oct 08, 2024, 06:51:58 AM
+GOOGL
+sell	market	filled	access_key	1,225.00	1,225.00	$163.2156	–	–	Oct 08, 2024, 06:51:37 AM	Oct 08, 2024, 06:51:39 AM
+GOOGL
+buy	market	filled	access_key	1,225.00	1,225.00	$163.31	–	–	Oct 08, 2024, 06:51:09 AM	Oct 08, 2024, 06:51:09 AM
+GOOGL
+sell	market	filled	access_key	1,225.00	1,225.00	$163.25	–	–	Oct 08, 2024, 06:50:56 AM	Oct 08, 2024, 06:50:56 AM
+GOOGL
+buy	market	filled	access_key	1,225.00	1,225.00	$163.2471	–	–	Oct 08, 2024, 06:50:43 AM	Oct 08, 2024, 06:50:45 AM
+GOOGL
+sell	market	filled	access_key	1,226.00	1,226.00	$163.24	–	–	Oct 08, 2024, 06:50:42 AM	Oct 08, 2024, 06:50:43 AM
+GOOGL
+buy	market	filled	access_key	1,226.00	1,226.00	$163.27	–	–	Oct 08, 2024, 06:50:40 AM	Oct 08, 2024, 06:50:40 AM
+GOOGL
+sell	market	filled	access_key	1,226.00	1,226.00	$163.27	–	–	Oct 08, 2024, 06:50:09 AM	Oct 08, 2024, 06:50:09 AM
+GOOGL
+buy	market	filled	access_key	1,226.00	1,226.00	$163.33	–	–	Oct 08, 2024, 06:50:00 AM	Oct 08, 2024, 06:50:00 AM
+GOOGL
+sell	market	filled	access_key	1,227.00	1,227.00	$163.29	–	–	Oct 08, 2024, 06:49:53 AM	Oct 08, 2024, 06:49:53 AM
+GOOGL
+buy	market	filled	access_key	1,227.00	1,227.00	$163.37	–	–	Oct 08, 2024, 06:49:42 AM	Oct 08, 2024, 06:49:42 AM
+GOOGL
+sell	market	filled	access_key	1,228.00	1,228.00	$163.31	–	–	Oct 08, 2024, 06:49:05 AM	Oct 08, 2024, 06:49:05 AM
+GOOGL
+buy	market	filled	access_key	1,228.00	1,228.00	$163.34	–	–	Oct 08, 2024, 06:48:42 AM	Oct 08, 2024, 06:48:43 AM
+GOOGL
+sell	market	filled	access_key	1,229.00	1,229.00	$163.3	–	–	Oct 08, 2024, 06:48:38 AM	Oct 08, 2024, 06:48:39 AM
+GOOGL
+buy	market	filled	access_key	1,229.00	1,229.00	$163.44	–	–	Oct 08, 2024, 06:47:52 AM	Oct 08, 2024, 06:47:53 AM
+GOOGL
+sell	market	filled	access_key	1,230.00	1,230.00	$163.44	–	–	Oct 08, 2024, 06:47:08 AM	Oct 08, 2024, 06:47:08 AM
+GOOGL
+buy	market	filled	access_key	1,230.00	1,230.00	$163.51	–	–	Oct 08, 2024, 06:46:55 AM	Oct 08, 2024, 06:46:56 AM
+GOOGL
+sell	market	filled	access_key	1,229.00	1,229.00	$163.46	–	–	Oct 08, 2024, 06:46:53 AM	Oct 08, 2024, 06:46:53 AM
+GOOGL
+buy	market	filled	access_key	1,229.00	1,229.00	$163.3	–	–	Oct 08, 2024, 06:46:25 AM	Oct 08, 2024, 06:46:26 AM
