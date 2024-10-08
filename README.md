@@ -38,6 +38,10 @@ If you need to update `pip`, you can make it using `pip`! Cool right? After runn
 
     $ pip install pip3 -g
 
+Now you can install the needed packages to run the software.
+
+    $ pip install numpy alpaca_trade_api --break-system-packages
+
 ## Running
 
  - #### Clone this repository  
