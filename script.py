@@ -111,9 +111,9 @@ def run_trading_strategy():
                 upward_changes += 1
                 logging.info(f"Price has gone up, consecutive upward changes: {upward_changes}")
                 
-                # Only buy after three consecutive upward price changes
-                if upward_changes == 3:
-                    logging.info("Three consecutive upward price changes, buying with all buying power.")
+                # Only buy after 5 consecutive upward price changes
+                if upward_changes == 5:
+                    logging.info("Five consecutive upward price changes, buying with all buying power.")
                     buy_googl()
                     current_position = 1  # We now own GOOGL shares
                     upward_changes = 0  # Reset upward change counter
