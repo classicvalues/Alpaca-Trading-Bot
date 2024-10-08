@@ -23,6 +23,8 @@ api = tradeapi.REST(API_KEY, API_SECRET, BASE_URL, api_version='v2')
 # Global variables
 last_price = None
 current_position = 0  # Track how many shares of GOOGL we own
+upward_changes = 0  # Track consecutive upward price changes
+downward_change = False  # Track if there's been a downward change
 
 def get_account_info():
     """Get the account buying power and balance."""
@@ -90,7 +92,7 @@ def buy_googl():
 
 def run_trading_strategy():
     """Main trading strategy execution."""
-    global last_price, current_position
+    global last_price, current_position, upward_changes, downward_change
 
     regt_buying_power, _ = get_account_info()
 
@@ -103,20 +105,32 @@ def run_trading_strategy():
         current_price = current_trade.price
         logging.info(f"Current GOOGL price: ${current_price:.2f}")
 
-        # Only buy if the price is increasing
+        # If the price is going up
         if last_price is None or current_price > last_price:
-            if current_position == 0:  # Only buy if we currently don't own any shares
-                logging.info("GOOGL price is increasing, buying with all buying power.")
-                buy_googl()
-                current_position = 1  # We now own GOOGL shares
+            if current_position == 0:  # Only buy if we don't currently own shares
+                upward_changes += 1
+                logging.info(f"Price has gone up, consecutive upward changes: {upward_changes}")
+                
+                # Only buy after three consecutive upward price changes
+                if upward_changes == 3:
+                    logging.info("Three consecutive upward price changes, buying with all buying power.")
+                    buy_googl()
+                    current_position = 1  # We now own GOOGL shares
+                    upward_changes = 0  # Reset upward change counter
+            else:
+                logging.info("Price is increasing, holding position.")
 
-        # If the price is going down and we own shares, sell them
-        elif last_price is not None and current_price < last_price and current_position > 0:
-            logging.info("GOOGL price has decreased, selling all shares.")
-            sell_all_googl()
-            current_position = 0  # We no longer own any shares
+        # If the price is going down
+        elif last_price is not None and current_price < last_price:
+            logging.info(f"Price has decreased, resetting consecutive upward changes.")
+            downward_change = True  # Set the downward change flag
+            upward_changes = 0  # Reset upward changes
+            if current_position > 0:  # If we own shares, sell them
+                logging.info("Selling all shares as price is decreasing.")
+                sell_all_googl()
+                current_position = 0  # We no longer own any shares
 
-        # If the price is stable, just hold the position
+        # If the price is stable
         elif last_price is not None and current_price == last_price and current_position > 0:
             logging.info("GOOGL price is stable, holding position.")
 
