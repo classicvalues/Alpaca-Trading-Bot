@@ -1,0 +1,20 @@
+Balance	Last Close on Oct 7th	Current
+RegT Buying Power	$201,087.20	$196,982.56
+Day Trading Buying Power	$0.00	$0.00
+Effective Buying Power	$201,087.20	$196,982.56
+Cash	$100,543.60	$98,491.28
+Cash Withdrawable	–	$98,491.28
+Pending Transfer Out	–	$0.00
+Pending Transfer In	–	
+Equity	$100,543.60	$98,491.28
+Long Market Value	$0.00	$0.00
+Short Market Value	$0.00	$0.00
+Position Market Value	–	$0.00
+Non-Marginable Buying Power	–	$98,491.28
+Initial Margin	$0.00	$0.00
+Maintenance Margin	$0.00	$0.00
+SMA	–	$100,000.00
+Accrued Fees	–	$0.00
+Held ACH Deposits	–	0
+Day Trade Count	1	110
+Crypto Tier	–	1
