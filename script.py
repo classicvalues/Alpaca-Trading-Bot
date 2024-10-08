@@ -103,11 +103,12 @@ def run_trading_strategy():
         current_price = current_trade.price
         logging.info(f"Current GOOGL price: ${current_price:.2f}")
 
-        # If we don't have a last price, or the price is going up, we buy with all available buying power
+        # Only buy if the price is increasing
         if last_price is None or current_price > last_price:
-            logging.info("GOOGL price is stable or increasing, buying with all buying power.")
-            buy_googl()
-            current_position = 1  # We now own GOOGL shares
+            if current_position == 0:  # Only buy if we currently don't own any shares
+                logging.info("GOOGL price is increasing, buying with all buying power.")
+                buy_googl()
+                current_position = 1  # We now own GOOGL shares
 
         # If the price is going down and we own shares, sell them
         elif last_price is not None and current_price < last_price and current_position > 0:
@@ -115,9 +116,9 @@ def run_trading_strategy():
             sell_all_googl()
             current_position = 0  # We no longer own any shares
 
-        # Hold the position if the price is stable or increasing
-        elif current_position > 0:
-            logging.info("Holding position as GOOGL price is stable or increasing.")
+        # If the price is stable, just hold the position
+        elif last_price is not None and current_price == last_price and current_position > 0:
+            logging.info("GOOGL price is stable, holding position.")
 
         # Update last price with the current price
         last_price = current_price
@@ -138,7 +139,7 @@ def start_trading():
     # Start the trading strategy
     while True:
         run_trading_strategy()
-        time.sleep(0.5)  # Wait for 1 seconds before rechecking
+        time.sleep(0.5)  # Wait for 0.5 seconds before rechecking
 
 if __name__ == "__main__":
     start_trading()
