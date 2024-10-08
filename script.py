@@ -128,7 +128,7 @@ def start_trading():
     # Start the trading strategy
     while True:
         run_trading_strategy()
-        time.sleep(5)  # Wait for 5 seconds before rechecking
+        time.sleep(1)  # Wait for 1 seconds before rechecking
 
 if __name__ == "__main__":
     start_trading()
