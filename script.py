@@ -14,14 +14,15 @@ logging.basicConfig(
 )
 
 # Alpaca API configuration
-API_KEY = 'YOUR_ALPACA_API_KEY'
-API_SECRET = 'YOUR_ALPACA_API_SECRET'
+API_KEY = 'PKK46FOQILEK4ALAF8IU'
+API_SECRET = 'e7WOD5V3MweUClo3jhxS4Fg6xndbfqm0r6pET1cY'
 BASE_URL = 'https://paper-api.alpaca.markets'
 
 api = tradeapi.REST(API_KEY, API_SECRET, BASE_URL, api_version='v2')
 
 # Global variables
 last_price = None
+current_position = 0  # Track how many shares of GOOGL we own
 
 def get_account_info():
     """Get the account buying power and balance."""
@@ -52,7 +53,7 @@ def sell_all_googl():
                     time_in_force='gtc'
                 )
                 logging.info(f"Sold {qty_to_sell} shares of GOOGL.")
-                break
+                return
     except tradeapi.rest.APIError as e:
         logging.error(f"Error placing sell order: {e}")
 
@@ -89,7 +90,7 @@ def buy_googl():
 
 def run_trading_strategy():
     """Main trading strategy execution."""
-    global last_price
+    global last_price, current_position
 
     regt_buying_power, _ = get_account_info()
 
@@ -102,14 +103,23 @@ def run_trading_strategy():
         current_price = current_trade.price
         logging.info(f"Current GOOGL price: ${current_price:.2f}")
 
-        # If the price is going down, sell all shares
-        if last_price is not None and current_price < last_price:
+        # If we don't have a last price, or the price is going up, we buy with all available buying power
+        if last_price is None or current_price > last_price:
+            logging.info("GOOGL price is stable or increasing, buying with all buying power.")
+            buy_googl()
+            current_position = 1  # We now own GOOGL shares
+
+        # If the price is going down and we own shares, sell them
+        elif last_price is not None and current_price < last_price and current_position > 0:
             logging.info("GOOGL price has decreased, selling all shares.")
             sell_all_googl()
-        else:
-            logging.info("GOOGL price is stable or increasing, holding position.")
+            current_position = 0  # We no longer own any shares
 
-        # Update last_price with the current price
+        # Hold the position if the price is stable or increasing
+        elif current_position > 0:
+            logging.info("Holding position as GOOGL price is stable or increasing.")
+
+        # Update last price with the current price
         last_price = current_price
 
     except tradeapi.rest.APIError as e:
