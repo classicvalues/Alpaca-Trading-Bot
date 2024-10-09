@@ -111,9 +111,9 @@ def run_trading_strategy():
                 upward_changes += 1
                 logging.info(f"Price has gone up, consecutive upward changes: {upward_changes}")
                 
-                # Only buy after 5 consecutive upward price changes
-                if upward_changes == 5:
-                    logging.info("Five consecutive upward price changes, buying with all buying power.")
+                # Only buy after 7 consecutive upward price changes
+                if upward_changes == 7:
+                    logging.info("Seven consecutive upward price changes, buying with all buying power.")
                     buy_googl()
                     current_position = 1  # We now own GOOGL shares
                     upward_changes = 0  # Reset upward change counter
@@ -137,6 +137,9 @@ def run_trading_strategy():
         # Update last price with the current price
         last_price = current_price
 
+        # Sleep for 0.5 seconds between each operation
+        time.sleep(0.5)
+
     except tradeapi.rest.APIError as e:
         logging.error(f"Error in trading strategy: {e}")
 
@@ -147,13 +150,12 @@ def start_trading():
     # First, sell all current GOOGL stock if any
     sell_all_googl()
 
-    # Wait a few seconds for the sell order to complete (adjust based on market conditions)
+    # Sleep for 0.5 seconds after sell operation
     time.sleep(0.5)
 
     # Start the trading strategy
     while True:
         run_trading_strategy()
-        time.sleep(0.5)  # Sleep after every loop iteration
 
 if __name__ == "__main__":
     start_trading()
