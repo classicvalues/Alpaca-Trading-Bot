@@ -127,6 +127,13 @@ def run_trading_strategy():
                     current_position = 1  # We now own the stock
                     last_upward_change = current_price - last_price
                     consecutive_upward_ticks = 0  # Reset the consecutive upward ticks
+
+                # **NEW CONDITION**: Do NOT buy if the upward change is more than twice the previous upward or downward change
+                elif last_upward_change is not None and (current_price - last_price) > 2 * last_upward_change:
+                    logging.info("Upward change is more than twice the size of the previous upward change, not buying.")
+                elif last_downward_change is not None and (current_price - last_price) > 2 * last_downward_change:
+                    logging.info("Upward change is more than twice the size of the previous downward change, not buying.")
+
             else:
                 logging.info("Price is increasing, holding position.")
                 last_upward_change = current_price - last_price  # Update the upward change
