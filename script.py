@@ -14,8 +14,8 @@ logging.basicConfig(
 )
 
 # Alpaca API configuration
-API_KEY = 'PKK46FOQILEK4ALAF8IU'
-API_SECRET = 'e7WOD5V3MweUClo3jhxS4Fg6xndbfqm0r6pET1cY'
+API_KEY = 'ALPACA_API_KEY'
+API_SECRET = 'ALPACA_SECRET_KEY'
 BASE_URL = 'https://paper-api.alpaca.markets'
 
 api = tradeapi.REST(API_KEY, API_SECRET, BASE_URL, api_version='v2')
