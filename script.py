@@ -120,13 +120,6 @@ def run_trading_strategy():
                     current_position = 1  # We now own the stock
                     consecutive_upward_ticks = 0  # Reset consecutive upward tick counter
                     last_upward_change = current_price - last_price  # Track the most recent upward change
-                # Buy if current upward change is twice the size of the previous downward change
-                elif last_downward_change is not None and (current_price - last_price) >= 2 * last_downward_change:
-                    logging.info("Upward change is twice the size of previous downward change, buying with all buying power.")
-                    buy_stock()
-                    current_position = 1  # We now own the stock
-                    last_upward_change = current_price - last_price
-                    consecutive_upward_ticks = 0  # Reset the consecutive upward ticks
 
                 # **NEW CONDITION**: Do NOT buy if the upward change is more than twice the previous upward or downward change
                 elif last_upward_change is not None and (current_price - last_price) > 2 * last_upward_change:
@@ -177,4 +170,8 @@ def start_trading():
         run_trading_strategy()
 
 if __name__ == "__main__":
+    # Initial sell of all stock before starting the bot
+    sell_all_stock()
+    
+    # Start trading
     start_trading()
