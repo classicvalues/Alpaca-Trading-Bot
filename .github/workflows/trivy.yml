@@ -33,7 +33,7 @@ jobs:
           docker build -t docker.io/my-organization/my-app:${{ github.sha }} .
 
       - name: Run Trivy vulnerability scanner
-        uses: aquasecurity/trivy-action@1b8b83dcc27a38f7d5506919fcea6945aa29b3b8
+        uses: aquasecurity/trivy-action@cf990b19d84bbbe1eb8833659989a7c1029132e3
         with:
           image-ref: 'docker.io/my-organization/my-app:${{ github.sha }}'
           format: 'template'
