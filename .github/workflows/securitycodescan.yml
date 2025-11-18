@@ -21,7 +21,7 @@ jobs:
   SCS:
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: nuget/setup-nuget@7637ac58f147fe272267fc9683a6ffab98004031
       - uses: microsoft/setup-msbuild@v2.0.0
       
