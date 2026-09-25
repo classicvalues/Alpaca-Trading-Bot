@@ -30,13 +30,13 @@ jobs:
     steps:
     # Checkout the repository to the GitHub Actions runner
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v4.4.0
 
     # Customize the ruby version depending on your needs
     - name: Setup Ruby
       uses: ruby/setup-ruby@f26937343756480a8cb3ae1f623b9c8d89ed6984
       with:
-        ruby-version: '2.7'
+        ruby-version: '2.7.8'
 
     - name: Setup Brakeman
       env:
@@ -52,6 +52,6 @@ jobs:
 
     # Upload the SARIF file generated in the previous step
     - name: Upload SARIF
-      uses: github/codeql-action/upload-sarif@v3
+      uses: github/codeql-action/upload-sarif@v3.38.2
       with:
         sarif_file: output.sarif.json
